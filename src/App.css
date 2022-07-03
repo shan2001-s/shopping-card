@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #f0e7e7;
 }
 
 .App-logo {
@@ -35,4 +36,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.shopping-icon{
+  position: fixed;
+  z-index: 100;
+  right: 20px;
+  top: 20px;
 }
